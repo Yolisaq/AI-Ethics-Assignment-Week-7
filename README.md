@@ -32,4 +32,4 @@ We analyze **racial bias** in risk prediction scores, apply **bias mitigation te
 ## 🚀 How to Run
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/Yolisaq/AI-Ethics-Assignment-Week-7.git)
